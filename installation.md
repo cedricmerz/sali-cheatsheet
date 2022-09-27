@@ -8,7 +8,7 @@ The electron application handles backend, database and the suggestion algorithm.
 
 ### VS-Code Extension
 
-The VS Code extension is the actual extension displayed in your IDE. Please add it from [here](https://marketplace.visualstudio.com/VSCode) to your VS Code. // TO BE ADDED!
+The VS Code extension is the actual extension displayed in your IDE. Please add it from [here](https://marketplace.visualstudio.com/items?itemName=royru.sali) to your VS Code.
 
 ### Browser Extension
 
