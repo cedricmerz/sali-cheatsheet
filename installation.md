@@ -6,6 +6,10 @@ To run SALI, you need **three different components** that have to be installed s
 
 The electron application handles backend, database and the suggestion algorithm. To install it, please download and execute the respective electron app for your operation system from [this link](https://drive.google.com/drive/folders/1ZRZPlPFVNyE5DtQS1NxjQfOb4xZLk7vl?usp=sharing).
 
+The app has to be running when you are coding. If you do not want to think about it, add it to your system's autostart:
+- Add app to [Windows Autostart](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd)
+- Add app to [Mac Autostart](https://www.idownloadblog.com/2015/03/24/apps-launch-system-startup-mac/)
+
 ### VS-Code Extension
 
 The VS Code extension is the actual extension displayed in your IDE. Please add it from [here](https://marketplace.visualstudio.com/items?itemName=royru.sali) to your VS Code.
