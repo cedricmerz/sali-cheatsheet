@@ -30,8 +30,9 @@ To be able to make suggestions based on your browser history, you must also inst
 
 **For Firefox users:**
 
-1. Download the respective package from [this link](https://drive.google.com/drive/folders/1MGik2RltRwymnOimNfj-zq5nrHOsXUgO?usp=sharing) and save it in your preferred place on your machine. Note that the folder must stay in your chosen location during the whole study.
-2. Type/copy `about:debugging#/runtime/this-firefox` into your Firefox Address Bar and open it.
-3. Press on the upper right button "Load Temporary Add-on..." and choose the zip package you saved on your machine.
-4. The extension is now added to your browser and already running. <br/>
+1. Download the respective file from [this link](https://drive.google.com/drive/folders/1MGik2RltRwymnOimNfj-zq5nrHOsXUgO?usp=sharing) and save it in your preferred place on your machine. (Note that you probably could delete it after installing, but to be sure leave it in your chosen location during the whole study.)
+2. Type `about:addons` into your Firefox Address Bar and open it.
+3. Press on the settings/gear button, 
+4. Klick "Install Add-on From File" and choose the extension file you just downloaded.
+5. The extension is now added to your browser and already running. <br/>
     <img src="assets/firefox_installation.png" width="800">
